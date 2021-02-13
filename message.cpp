@@ -509,3 +509,4 @@ int main(int argc, char *argv[])
 
 void aaa;
 void egor_lox;
+void ANDadвыаыв;
