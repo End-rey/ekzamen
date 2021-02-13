@@ -508,3 +508,4 @@ int main(int argc, char *argv[])
 }
 
 void aaa;
+void bbb;
